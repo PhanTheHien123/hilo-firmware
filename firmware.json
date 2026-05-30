@@ -6,9 +6,9 @@
     "released_at": "2026-05-30"
   },
   "slave": {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "url": "https://github.com/PhanTheHien123/hilo-firmware/releases/download/v3.0.0/HILO_IoT_v2.ino.bin",
-    "changelog": "TTP224B fix, HTTPS OTA",
+    "changelog": "Test OTA flow",
     "released_at": "2026-05-30"
   }
 }
