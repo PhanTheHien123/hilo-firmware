@@ -1,0 +1,14 @@
+{
+  "master": {
+    "version": "1.0.0",
+    "url": "https://github.com/PhanTheHien123/hilo-firmware/releases/download/v1.0.0/HILO_Master.ino.bin",
+    "changelog": "OTA support, auto rollback",
+    "released_at": "2026-05-30"
+  },
+  "slave": {
+    "version": "3.0.0",
+    "url": "https://github.com/PhanTheHien123/hilo-firmware/releases/download/v3.0.0/HILO_Slave.ino.bin",
+    "changelog": "TTP224B fix, HTTPS OTA",
+    "released_at": "2026-05-30"
+  }
+}
