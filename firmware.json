@@ -7,7 +7,7 @@
   },
   "slave": {
     "version": "3.0.3",
-    "url": "https://github.com/PhanTheHien123/hilo-firmware/releases/download/v3.0.2/HILO_IoT_v2.ino.bin",
+    "url": "https://github.com/PhanTheHien123/hilo-firmware/releases/download/v3.0.3/HILO_IoT_v2.ino.bin",
     "changelog": "OTA change PIN",
     "released_at": "2026-06-02"
   }
